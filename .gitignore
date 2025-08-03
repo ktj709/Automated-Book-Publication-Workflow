@@ -1,0 +1,6 @@
+.env
+outputs/
+screenshots/
+test_reviewer.py
+test_scraper.py
+test_writer.py
