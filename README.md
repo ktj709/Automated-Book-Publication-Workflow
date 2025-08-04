@@ -74,12 +74,14 @@ An end-to-end AI-powered system to automate content scraping, rewriting, reviewi
    source venv/bin/activate   # or venv\Scripts\activate on Windows
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
-3. Run the orchestration pipeline:
+4. Run the orchestration pipeline:
+   ```bash
    python main.py
 
-4. Follow prompts to:
+6. Follow prompts to:
 
    Enter a chapter URL
 
@@ -95,6 +97,7 @@ An end-to-end AI-powered system to automate content scraping, rewriting, reviewi
 1. Activate your Python environment.
 
 2. Run Streamlit-
+   ```bash
    streamlit run app.py
 
 3. Features available in UI:
